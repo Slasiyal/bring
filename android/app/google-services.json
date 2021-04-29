@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142178262156",
+    "firebase_url": "https://bring-app-d7674-default-rtdb.firebaseio.com",
+    "project_id": "bring-app-d7674",
+    "storage_bucket": "bring-app-d7674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142178262156:android:9d776c2f2e297cf9a9afa9",
+        "android_client_info": {
+          "package_name": "com.bring.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142178262156-1h9jotphmbhr0dbskq27lkolddo7rh19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bring.seller",
+            "certificate_hash": "abb1d9f9f147d8b95f4307352c651352be69542a"
+          }
+        },
+        {
+          "client_id": "142178262156-o8p29i7e6in7v5ud6jguiodol467avjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChOFmOHNQ-0eHVqYg8VLBXzAuQzp_VJBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142178262156-o8p29i7e6in7v5ud6jguiodol467avjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

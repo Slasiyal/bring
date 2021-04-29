@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>142178262156-qpj43j2952hd7v7joviuantrigh7rdcn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.142178262156-qpj43j2952hd7v7joviuantrigh7rdcn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>142178262156-1h9jotphmbhr0dbskq27lkolddo7rh19.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvljyk_PjCzZM-LOldejyCbeeWF6PBqLc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>142178262156</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bring.seller</string>
+	<key>PROJECT_ID</key>
+	<string>bring-app-d7674</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bring-app-d7674.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:142178262156:ios:b0de8164893f9ab3a9afa9</string>
+	<key>DATABASE_URL</key>
+	<string>https://bring-app-d7674-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
